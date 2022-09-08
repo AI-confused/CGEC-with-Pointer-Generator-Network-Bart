@@ -1,0 +1,7 @@
+easy-task==0.0.29
+torch==1.7.1
+tqdm
+transformers==4.19.2
+sklearn
+Levenshtein
+pyyaml==6.0
